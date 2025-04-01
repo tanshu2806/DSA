@@ -12,7 +12,7 @@ int main(){
     cout<<"Your age is "<<age<<"."<<endl;
 
     string name;
-    cout<<"What is your name? "<<endl;
+    cout<<"What is your first name? "<<endl;
     cin>>name; //This only takes input till first space
     cin.ignore();
     //But user have to enter only first name.
