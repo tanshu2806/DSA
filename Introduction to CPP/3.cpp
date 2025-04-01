@@ -61,5 +61,5 @@ int main(){
             cout<<"You are fit.";
         }
     }
-
+    return 0;
 }
